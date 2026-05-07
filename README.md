@@ -25,7 +25,7 @@ The key problem it solves: stable user traits (e.g. "prefers thorough root-cause
 
 ```bash
 cd ~/.hermes/plugins
-git clone https://github.com/YOUR_USERNAME/holographic-plus.git holographic-plus
+git clone https://github.com/qxxaa/holographic-plus.git holographic-plus
 ```
 
 Then add to `config.yaml`:
